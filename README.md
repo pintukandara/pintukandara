@@ -26,7 +26,7 @@
 **Languages & Fundamentals**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java)
-![Python]([https://img.shields.io/badge/-C-A8B9CC?logo=c](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54))
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql)
 ![Shell](https://img.shields.io/badge/-Shell_Scripting-4EAA25?logo=gnu-bash)
 
@@ -37,8 +37,8 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql)
 ![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens)
 ![WebSockets](https://img.shields.io/badge/-WebSockets-FFA500)
-![Django]([https://img.shields.io/badge/-WebSockets-FFA500](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green))
-![DRF]([[https://img.shields.io/badge/-WebSockets-FFA500](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green](https://img.shields.io/badge/django--rest--framework-3.12.4-blue?style=for-the-badge&labelColor=333333&logo=django&logoColor=white&color=blue)))
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-ff1709?style=for-the-badge&logo=django&logoColor=white)
 
 
 
